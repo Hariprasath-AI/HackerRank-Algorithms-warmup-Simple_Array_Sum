@@ -30,3 +30,11 @@ Sample Output:
 Explanation:
 
 We print the sum of the array's elements: 1 + 2 + 3 + 4 + 10 + 11 = 31
+
+
+# Changes in actual Question
+
+I changed a bit in the approach. While the first line is the no of inputs i.e., numbers which we have to add. By mistaken user gives a mismatching Size at firstline or gives a wrong no of inputs in second line, we have to intimate them as "Invalid Input" or "Size Mismatched".  HackerRank-Algorithms-warmup-Simple_Array_Sum.py file never shows the result until the user gives correct input i.e., the no of Inputs and length of array gets matched.
+
+
+# Thanks for visiting this page
