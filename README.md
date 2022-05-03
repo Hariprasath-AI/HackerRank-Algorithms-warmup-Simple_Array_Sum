@@ -1,5 +1,5 @@
 # HackerRank-Algorithms-warmup-Simple_Array_Sum    
-# Actual Problem Question
+# Actual Problem Question   
 
 Given an array of integers, find the sum of its elements.
 For example, if the array ar = [1,2,3] , 1 + 2 + 3 = 6
